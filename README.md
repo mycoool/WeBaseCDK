@@ -14,7 +14,7 @@
 ## 1. Add reference in ``composer.json``
 ```
 "require": {
-    "mycoool/WebaseCDK":"^1.0"
+    "mycoool/WebaseCDK":"dev-main"
 }
 ```
 ## 2. Call ``SignSDK`` in code
