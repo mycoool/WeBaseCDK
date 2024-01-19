@@ -1,0 +1,32 @@
+{
+    "name": "mycoool/WeBaseCDK",
+    "description": "FISCO-BCOS php signing sdk supported by webase",
+    "keywords": [
+        "php",
+        "webase",
+        "fisco",
+        "FISCO-BCOS"
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "phpseclib/phpseclib": "~2.0.11",
+        "kornrunner/keccak": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mycoool\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mycoool",
+            "email": "mycoool@qq.com"
+        }
+    ]
+}
