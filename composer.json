@@ -1,5 +1,5 @@
 {
-    "name": "mycoool/WeBaseCDK",
+    "name": "mycoool/webase-cdk",
     "description": "FISCO-BCOS php signing sdk supported by webase",
     "keywords": [
         "php",
