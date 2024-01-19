@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mycoool\\webase-cdk\\": "src/"
+            "WebaseCDK\\": "src/"
         }
     },
     "autoload-dev": {
