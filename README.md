@@ -1,5 +1,5 @@
 # webase-php-sdk use c sdk
- fisco-bcos php signing sdk
+ fisco-bcos php c sdk by ffi
 
 # Attention
 1. Must use PHP with version >= 7.4 and enable **ffi** feature.
@@ -14,7 +14,7 @@
 ## 1. Add reference in ``composer.json``
 ```
 "require": {
-    "mycoool/WebaseCDK":"dev-main"
+    "mycoool/webase-cdk":"dev-main"
 }
 ```
 ## 2. Call ``SignSDK`` in code
